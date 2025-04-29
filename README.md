@@ -1,12 +1,45 @@
-# React + Vite
+# MoviesLib - Aplicativo de Filmes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Sobre o Projeto
 
-Currently, two official plugins are available:
+**MoviesLib** é um aplicativo moderno e interativo que consome uma API para exibir informações detalhadas sobre filmes. O objetivo deste projeto é oferecer uma maneira simples e eficiente de visualizar dados de filmes com uma interface dinâmica e rápida, proporcionando uma experiência agradável para o usuário.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- **React** para construção da interface
+- **Vite** para um ambiente de desenvolvimento rápido e otimizado
+- **CSS** para estilização e design responsivo
+- **ESLint** para garantir a qualidade do código
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Funcionalidades
+
+- **Exibição de Filmes**: Visualização de uma lista de filmes com informações detalhadas.
+- **Interface Responsiva**: Totalmente adaptável para diferentes dispositivos.
+- **Desempenho Rápido**: Carregamento rápido devido ao uso do Vite e otimização do código.
+
+## Como Executar o Projeto
+
+1. Clone este repositório:
+
+   ```sh
+   git clone https://github.com/rafaelmunetiko/MoviesLib.git 
+   
+2. Acesse a pasta do projeto:
+
+  ```sh
+    cd MoviesLib
+```
+
+3. Instale as dependências:
+
+  ```sh
+    npm install
+```
+
+4.Inicie o aplicativo:
+
+  ```sh
+  npm run dev
+```
+
+Acesse o aplicativo no seu navegador em http://localhost:3000.
