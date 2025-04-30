@@ -1,8 +1,8 @@
-# MoviesLib - Aplicativo de Filmes
+# SlateScope - Aplicativo de Filmes
 
 ## Sobre o Projeto
 
-**MoviesLib** é um aplicativo moderno e interativo que consome uma API para exibir informações detalhadas sobre filmes. O objetivo deste projeto é oferecer uma maneira simples e eficiente de visualizar dados de filmes com uma interface dinâmica e rápida, proporcionando uma experiência agradável para o usuário.
+**SlateScope** é um aplicativo moderno e interativo que consome uma API para exibir informações detalhadas sobre filmes. O objetivo deste projeto é oferecer uma maneira simples e eficiente de visualizar dados de filmes com uma interface dinâmica e rápida, proporcionando uma experiência agradável para o usuário.
 
 ## Tecnologias Utilizadas
 
